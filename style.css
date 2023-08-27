@@ -1,0 +1,47 @@
+/* starter */
+
+.main {
+    display: flex;
+
+}
+
+/* button */
+.btn {
+    padding: 27px;
+    gap: 50px;
+}
+
+/* navbar */
+.nav {
+    letter-spacing: 25px;
+    padding-bottom: 20px;
+    display: flex;
+    gap: 25px;
+    width: 100px;
+}
+
+.headding {
+    height: 5px;
+}
+
+/* button1 */
+.btn-1 {
+    letter-spacing: 20px;
+}
+
+/* .main-pages{
+    display: flex;
+    
+} */
+.cata {
+    display: flex;
+    position: relative;
+    padding: 3%;
+    margin: 3%;
+}
+.cc {
+    display: flex;
+    position: relative;
+    padding: 3%;
+    margin: 3%;
+}
